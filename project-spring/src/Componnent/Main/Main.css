@@ -1,5 +1,5 @@
 .Part1{
-    background-color: blueviolet;
+    background-color: darkgrey;
 }
 .Left{
     margin-top: 200px;
@@ -23,12 +23,12 @@
     border-radius: 5px;
     font-family: 'Oswald', sans-serif;
     background-color: rgb(160, 255, 7);
-    border: 2.5px solid rgb(255, 238, 2);
+    border: 2px solid yellow;
 }
 #Button:hover{
-    font-weight: bold;
-    color: red;
-}
+    color: white;
+    background-color: black;
+    border: 1.5px solid yellow;}
 
 
 #Hi-Image{
@@ -37,7 +37,7 @@
 }
 
 .Part2{
-    background-color: antiquewhite;
+    background-color: rgb(141, 160, 148);
 }
 #Experience-Image{
     width: 100%;
@@ -65,9 +65,9 @@
     border: 2px solid yellow;
 }
 #Project:hover{
-    font-weight: bold;
-    color: red;
-    border: 1px solid blueviolet;
+    color: white;
+    background-color: black;
+    border: 1px solid yellow;
 }
 #CV{
     width: 80px;
@@ -81,8 +81,8 @@
     border: 2px solid yellow;
 }
 #CV:hover{
-    font-weight: bold;
-    color: red;
-    border: 1px solid blueviolet;
+    color: white;
+    background-color: black;
+    border: 1px solid yellow;
 }
 
