@@ -39,7 +39,7 @@ function App() {
                     <div className="row">
                         {/* Socila links */}
                         <div className="col-md-4">
-                            <p id="Social">Say Hello</p>
+                            <p id="Social">Say Hello. .</p>
                         <a href="https://www.facebook.com/profile.php?id=100030607042215" ><FontAwesomeIcon id="Social-Icon1" icon={faFacebook} /></a>
                         <a href="https://github.com/Imtious-coder" ><FontAwesomeIcon id="Social-Icon2" icon={faGithub} /></a>
                         <a href="https://www.linkedin.com/in/imtious-islam-842a73189/" ><FontAwesomeIcon id="Social-Icon3" icon={faLinkedin} /></a>
@@ -47,7 +47,7 @@ function App() {
                         <div className="col-md-4"></div>
                         {/* Copyright */}
                         <div className="col-md-4 d-flex align-items-center text-white">
-                            <p>© All rights reserved by "Spring"</p>
+                            <p>© All rights 2021 reserved by "Spring"</p>
                         </div>
                     </div>
                 </div>
