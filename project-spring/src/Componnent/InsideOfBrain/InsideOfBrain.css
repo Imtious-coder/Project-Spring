@@ -1,0 +1,13 @@
+.InsideOfBrain{
+    background-color: rgb(161, 76, 241);
+}
+
+.Skills{
+    font-family: 'Oswald', sans-serif;
+    color: burlywood;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    line-height: auto;
+    padding-top: 60px;
+}
