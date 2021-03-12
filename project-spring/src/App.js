@@ -1,12 +1,10 @@
 import './App.css';
-import Header from './Componnent/Header/Header';
-import Main from './Componnent/Main/Main';
+import Home from './Componnent/Home/Home';
 
 function App() {
   return (
     <div>
-      <Header></Header>
-      <Main></Main>
+    <Home></Home>
     </div>
   );
 }

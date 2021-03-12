@@ -1,3 +1,6 @@
+.Part1{
+    background-color: blueviolet;
+}
 .Left{
     margin-top: 200px;
 }
@@ -5,20 +8,22 @@
     font-family: 'Oswald', sans-serif;
     font-weight: bolder;
     font-size: 52px;
+    color: rgb(46, 44, 44);
 }
 .Description{
     font-family: 'Oswald', sans-serif;
     font-size: 18px;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 #Button{
     width: 130px;
     height: 35px;
-    color: white;
+    font-weight: 500;
+    color: rgb(2, 2, 2);
     border-radius: 5px;
     font-family: 'Oswald', sans-serif;
-    background-color: coral;
-    border: 1px solid blueviolet;
+    background-color: rgb(160, 255, 7);
+    border: 2.5px solid rgb(255, 238, 2);
 }
 
 
@@ -27,7 +32,9 @@
     height: 100%;
 }
 
-
+.Part2{
+    background-color: antiquewhite;
+}
 #Experience-Image{
     width: 100%;
     height: 100%;
@@ -38,25 +45,31 @@
  text-align: right;
 }
 
+.Description2{
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
 #Project{
     width: 110px;
     height: 35px;
-    color: white;
+    color: rgba(0, 0, 0, 0.74);
     border-radius: 5px;
     font-family: 'Oswald', sans-serif;
-    background-color: coral;
-    border: 1px solid blueviolet;
+    background-color: rgb(160, 255, 7);
+    border: 2px solid yellow;
 }
 #CV{
     width: 80px;
     height: 35px;
-    color: white;
+    color: rgba(0, 0, 0, 0.733);
     border-radius: 5px;
     margin-left: 20px;
     margin-right: 20px;
     font-family: 'Oswald', sans-serif;
-    background-color: coral;
-    border: 1px solid blueviolet;
+    background-color: rgb(160, 255, 7);
+    border: 2px solid yellow;
 }
 
 #Social{
@@ -77,6 +90,6 @@
 }
 #Social-Icon3{
     font-size: 32px;
-    color: #0d8af0;
+    color: #00aeff;
     margin: 10px;
 }
