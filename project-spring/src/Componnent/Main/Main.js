@@ -43,9 +43,9 @@ const Main = () => {
                     <div className="row">
                         <div className="col-md-4">
                             <p id="Social">Say Hello</p>
-                        <a href="#" ><FontAwesomeIcon id="Social-Icon1" icon={faFacebook} /></a>
-                        <a href="#" ><FontAwesomeIcon id="Social-Icon2" icon={faGithub} /></a>
-                        <a href="#" ><FontAwesomeIcon id="Social-Icon3" icon={faLinkedin} /></a>
+                        <a href="https://www.facebook.com/profile.php?id=100030607042215" ><FontAwesomeIcon id="Social-Icon1" icon={faFacebook} /></a>
+                        <a href="https://github.com/Imtious-coder" ><FontAwesomeIcon id="Social-Icon2" icon={faGithub} /></a>
+                        <a href="https://www.linkedin.com/in/imtious-islam-842a73189/" ><FontAwesomeIcon id="Social-Icon3" icon={faLinkedin} /></a>
                         </div>
                         <div className="col-md-4"></div>
                         <div className="col-md-4 d-flex align-items-center text-white">
