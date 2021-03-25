@@ -8,6 +8,7 @@ import {
 import InsideOfBrain from './Componnent/InsideOfBrain/InsideOfBrain';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faFacebook, faGithub, faLinkedin} from '@fortawesome/free-brands-svg-icons';
+import Projects from './Componnent/Projects/Projects';
 
 
 function App() {
@@ -24,6 +25,9 @@ function App() {
           </Route>
           <Route path="/insideOfBrain">
             <InsideOfBrain />
+          </Route>
+          <Route path="/projects">
+            <Projects></Projects>
           </Route>
           <Route path="/">
             <Home />

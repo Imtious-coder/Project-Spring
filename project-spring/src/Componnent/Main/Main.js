@@ -41,7 +41,7 @@ const Main = () => {
                             <p className="Title">Experience</p>
                             <p className="Description2">Here are some examples site that I have developed, just hit the PROJECTS<br/> Hit CV to get more details</p>
                             {/* Buttons here... */}
-                            <button id="Project">PROJECTS</button>
+                            <Link to="/projects"><button id="Project">PROJECTS</button></Link>
                             <button id="CV">CV</button>
                         </div>
                     </div>

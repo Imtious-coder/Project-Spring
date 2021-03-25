@@ -19,7 +19,13 @@ const InsideOfBrain = () => {
                 <p className="Skills">Git - Github</p>
                 <ProgressBar striped variant="primary" now={99} label={`${99}%`} />
                 <p className="Skills">React Router</p>
-                <ProgressBar striped variant="secondary" now={90} label={`${99}%`} />
+                <ProgressBar striped variant="secondary" now={99} label={`${99}%`} />
+                <p className="Skills">Firebase</p>
+                <ProgressBar striped variant="secondary" now={80} label={`${80}%`} />
+                <p className="Skills">MongoDB</p>
+                <ProgressBar striped variant="secondary" now={60} label={`${60}%`} />
+                <p className="Skills">Node.js</p>
+                <ProgressBar striped variant="secondary" now={40} label={`${40}%`} />
             </div>
         </div>
     );
